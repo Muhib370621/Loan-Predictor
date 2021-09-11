@@ -13,5 +13,6 @@ Based on the information inserted in the form it will allow you to move to next 
   <img src="3.png" alt="Pic-3">
   <p>Forn Submition Window.</p>
   <img src="4.png" alt="Pic-4">
+  <p>After retrieving user using cnic you can check status.</p>
   <img src="5.png" alt="Pic-5">
   </div>
