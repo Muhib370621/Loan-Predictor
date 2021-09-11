@@ -5,7 +5,7 @@ Based on the information inserted in the form it will allow you to move to next 
 <h3>GUI is designed Using Tkinter library Python3.</h3>
 <div align="column">
   <div align="center">
-    <p>Screen Shot of How GUI will look.</p>
+    <p>Screen Shots of How GUI will look.</p>
   </div>
   <img src="1.png" alt="Pic-1">
   <img src="2.png" alt="Pic-2">
