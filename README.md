@@ -5,4 +5,8 @@ Based on the information inserted in the form it will allow you to move to next 
 
 <div align="column">
   <img src="1.png" alt="Pic-1">
+  <img src="2.png" alt="Pic-2">
+  <img src="3.png" alt="Pic-3">
+  <img src="4.png" alt="Pic-4">
+  <img src="5.png" alt="Pic-5">
   </div>
