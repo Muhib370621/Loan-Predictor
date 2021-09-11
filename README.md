@@ -9,7 +9,9 @@ Based on the information inserted in the form it will allow you to move to next 
   </div>
   <img src="1.png" alt="Pic-1">
   <img src="2.png" alt="Pic-2">
+  <p>For checking status.</p>
   <img src="3.png" alt="Pic-3">
+  <p></p>
   <img src="4.png" alt="Pic-4">
   <img src="5.png" alt="Pic-5">
   </div>
